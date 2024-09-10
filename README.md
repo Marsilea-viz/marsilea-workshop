@@ -8,7 +8,7 @@ Materials for marsilea's workshop
     <tbody>
         <tr>
             <td>Marsilea-intro.ipynb</td>
-            <td><a href="https://colab.research.google.com/github/Marsilea-viz/marsilea-workshop/blob/main/Marsilea-intro.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
+            <td><a href="https://colab.research.google.com/github/Marsilea-viz/marsilea-workshop/blob/main/Marsilea-intro.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
             <td></td>
         </tr>
         <tr>
@@ -29,6 +29,7 @@ Materials for marsilea's workshop
         <tr>
             <td>Marsilea-tiny-tricks.ipynb</td>
             <td><a href="https://colab.research.google.com/github/Marsilea-viz/marsilea-workshop/blob/main/Marsilea-tiny-tricks.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
